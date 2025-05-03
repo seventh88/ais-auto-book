@@ -20,7 +20,7 @@
 -   **Discord**：`mikeleex`
 
 <div align="center">
-  <div style="display: inline-block; text-align: center; margin-right: 120px;">
+  <div style="display: inline-block; text-align: center; margin-right: 40px;">
     <p><strong>WeChat：mikeleex</strong></p>
     <img src="./images/wechat.jpg" alt="WeChat QR" height="180" />
   </div>
