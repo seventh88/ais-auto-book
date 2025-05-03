@@ -18,17 +18,14 @@
 
 -   **Telegram**：[@mikeleex](https://t.me/mikeleex)
 -   **Discord**：`mikeleex`
-
-<div align="center">
-  <div style="display: inline-block; text-align: center; margin-right: 40px;">
-    <p><strong>WeChat：mikeleex</strong></p>
-    <img src="./images/wechat.jpg" alt="WeChat QR" height="180" />
-  </div>
-  <div style="display: inline-block; text-align: center;">
-    <p><strong>WhatsApp</strong></p>
-    <img src="./images/whatsapp.png" alt="WhatsApp QR" width="180" />
-  </div>
-</div>
+-   **WeChat**：`mikeleex`
+    <div>
+        <img src="./images/wechat.jpg" alt="WeChat QR" height="180" />
+    </div>
+-   **WhatsApp**：
+    <div>
+        <img src="./images/whatsapp.png" alt="WhatsApp QR" width="180" />
+    </div>
 
 ---
 
