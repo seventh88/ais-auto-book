@@ -15,13 +15,8 @@
 ## 📬 联系方式
 该工具为免费使用，为防止用来牟利，每个账号的代码是不同的。
 如你希望使用该工具，请通过以下任意方式联系我，并发送Ais账号：
-
+-   **小红书**：26792472777
 -   **Telegram**：[https://t.me/mikeleex](https://t.me/mikeleex)
--   **Discord**：`mikeleex`
--   **WeChat**：`mikeleex`
-    <div>
-        <img src="./images/wechat.jpg" alt="WeChat QR" height="180" />
-    </div>
 -   **WhatsApp**：[https://wa.me/qr/Z2IRWJZCKMI6N1](https://wa.me/qr/Z2IRWJZCKMI6N1)
     <div>
         <img src="./images/whatsapp.png" alt="WhatsApp QR" width="180" />
